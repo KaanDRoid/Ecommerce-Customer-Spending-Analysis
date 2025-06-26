@@ -37,7 +37,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/your-username/ecommerce-customer-analysis.git
+git clone https://github.com/KaanDRoid/ecommerce-customer-analysis.git
 ```
 2. Navigate to the project directory:
 ```sh
@@ -59,8 +59,7 @@ jupyter notebook Ecommerce_Customer_Analysis.ipynb
 ## Files
 
 - `Ecommerce_Customer_Analysis.ipynb`: The main Jupyter Notebook containing the analysis and modeling code.
-- `Ecommerce_Customers.csv`: The dataset used for analysis (if included).
-
+- `Ecommerce_Customers.csv`: The dataset used for analysis 
 ## Contributing
 
 Feel free to fork this repository, submit issues, or create pull requests if you have suggestions or improvements.
